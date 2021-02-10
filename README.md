@@ -15,5 +15,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibatistasantos&show_icons=true&locale=en&layout=compact" alt="ibatistasantos" /></p>
-<br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibatistasantos&show_icons=true&locale=en" alt="ibatistasantos" /></p>
